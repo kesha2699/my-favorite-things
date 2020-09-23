@@ -1,4 +1,4 @@
-#favorite-things.html
+# favorite-things.html
 *i like watching movies and reading books
 *i regularly play badminton
 *travelling with friends and family
